@@ -19,7 +19,7 @@ Bienvenido a este nuevo tema ;)
 
 :root {
   /* Image variables */
-  --BG-image: url("https://i.imgur.com/yC3C8K3.png");  /* Debe ser el link con terminal de archivo, no una completa de imagen. */
+  --BG-image: url("https://i.imgur.com/kYW2H5C.jpg");  /* Debe ser el link con terminal de archivo, no una completa de imagen. */
   --BG-image-blur: 5px;  /* Puede terminar en px (0px) | DEFAULT: 5px */
 
   /* Brightness variables */
